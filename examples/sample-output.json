@@ -1,0 +1,79 @@
+[
+  {
+    "company": "2033 EAST 67TH STREET LLC",
+    "state": "NY",
+    "entityType": "DOMESTIC LIMITED LIABILITY COMPANY",
+    "registeredDate": "2026-11-15",
+    "status": null,
+    "jurisdiction": "New York",
+    "county": "Kings",
+    "address": {
+      "street": "2028 East 67th Street",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11234"
+    },
+    "addressType": "service of process",
+    "contactName": "M. A.",
+    "registeredAgent": null,
+    "email": null,
+    "industry": null,
+    "people": [],
+    "registryId": "8133034",
+    "sourceUrl": "https://apps.dos.ny.gov/publicInquiry/",
+    "source": "New York Department of State"
+  },
+  {
+    "company": "Alzion Technologies LLC",
+    "state": "CT",
+    "entityType": "LLC",
+    "registeredDate": "2026-11-15",
+    "status": "Active",
+    "jurisdiction": "Connecticut",
+    "county": null,
+    "address": {
+      "street": "108 W Avon Rd",
+      "city": "Avon",
+      "state": "CT",
+      "zip": "06001-3513"
+    },
+    "addressType": "business",
+    "contactName": null,
+    "registeredAgent": null,
+    "email": "a***@gmail.com",
+    "industry": "Custom Computer Programming Services (541511)",
+    "people": [],
+    "ownership": {
+      "womanOwned": false,
+      "veteranOwned": false,
+      "minorityOwned": false
+    },
+    "registryId": "3551228",
+    "sourceUrl": "https://service.ct.gov/business/s/onlinebusinesssearch",
+    "source": "Connecticut Secretary of the State"
+  },
+  {
+    "company": "Sick Dayz Studios LLC",
+    "state": "CO",
+    "entityType": "Domestic limited liability company",
+    "registeredDate": "2026-11-09",
+    "status": "Good Standing",
+    "jurisdiction": "CO",
+    "county": null,
+    "address": {
+      "street": "600 Arapahoe Ave Apt 2",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80302"
+    },
+    "addressType": "principal office",
+    "contactName": null,
+    "registeredAgent": "Registered Agents Inc",
+    "email": null,
+    "industry": null,
+    "people": [],
+    "registryId": "20268373666",
+    "sourceUrl": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20268373666",
+    "source": "Colorado Secretary of State"
+  }
+]
